@@ -19,7 +19,8 @@ dist_bin_SCRIPTS = \
 	patchview/gitshow \
 	patchview/gitshowview \
 	patchview/svndiff \
-	patchview/svndiffview
+	patchview/svndiffview \
+	patchview/invertpatch
 
 # Bash completion files
 bashcompletiondir = $(datadir)/bash-completion/completions
