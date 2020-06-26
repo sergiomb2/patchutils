@@ -14,7 +14,8 @@ dist_bin_SCRIPTS = \
 	patchview/gitdiff \
 	patchview/gitdiffview \
 	patchview/svndiff \
-	patchview/svndiffview
+	patchview/svndiffview \
+	patchview/invertpatch
 
 AM_CFLAGS = -I$(srcdir)/src
 src_interdiff_SOURCES = src/interdiff.c src/util.c src/util.h src/diff.c \
