@@ -28,7 +28,8 @@ bin_SCRIPTS = \
 	scripts/espdiff
 
 dist_bin_SCRIPTS = \
-	patchview/patchview-wrapper$(EXEEXT)
+	patchview/patchview-wrapper$(EXEEXT) \
+	patchview/invertpatch
 
 # Bash completion files
 bashcompletiondir = $(datadir)/bash-completion/completions
