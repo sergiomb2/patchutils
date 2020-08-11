@@ -33,3 +33,22 @@ patch contains a given regular expression.
 Recountdiff fixes up counts and offsets in a unified diff.
 
 Unwrapdiff fixes word-wrapped unified diffs.
+
+
+/usr/bin/dehtmldiff
+/usr/bin/editdiff
+/usr/bin/espdiff
+/usr/bin/flipdiff
+
+/usr/bin/gitdiff
+/usr/bin/gitdiffview
+/usr/bin/patchview
+
+/usr/bin/rediff
+
+/usr/bin/splitdiff
+
+/usr/bin/svndiff
+/usr/bin/svndiffview
+
+
