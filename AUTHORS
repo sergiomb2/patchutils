@@ -7,3 +7,9 @@ Marko Kreen <marko@l-t.ee>
 
 Matthias Hanisch <matze@camline.com>
 	- Major interdiff speed-ups, combinediff implementation.
+
+Sérgio Basto <sergio@serjux.com>
+ - idea of add-on file numbers, put some short words and call it diffview, nothing else.    
+ - some of this changes from diffview cant be applied because aren't backwards compatibly so is other reason for this project exist.
+ - for propose to use by developers when develop. 
+
